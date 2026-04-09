@@ -1,0 +1,42 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Virtual environment
+.venv/
+venv/
+env/
+
+# 🧪 Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 🧠 IDE / Editor
+.vscode/
+.idea/
+
+# 📝 Logs
+*.log
+
+# 📁 OS files
+.DS_Store
+Thumbs.db
+
+# 🔐 Environment variables
+.env
+
+# 📦 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🧪 Coverage reports
+coverage.xml
+
+# 🔄 Mypy / type checking
+.mypy_cache/
+
+# 🧹 Ruff / linters (если будешь использовать)
+.ruff_cache/
